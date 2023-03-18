@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+
+}
+ 
+h1#principal {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.importante {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(15, 1, 20, 0.904);
+    background-color: rgb(162, 162, 221);
+
+}
+h2 {
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-decoration: underline;
+}
+.paragrafos {
+    font-style: italic;
+    text-align: justify;
+}
+.seletores {
+    background-color: rgb(190, 190, 162);
+    color: red;
+}
+.importante {
+    background-color: rgb(144, 144, 214);
+}
